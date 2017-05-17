@@ -1,0 +1,3 @@
+Ehrenlicht is a lamp and a rudimentary music interpreter, that shows music through light and color, like an complex RGB volume unit meter. It is controlled by an ATXMEGA128A3U, ATMEGA328P mikrocontroller and an NRF24L01 radio module. The system analyses a audio stream and gives bpm, beat detection and equalizer data and controls WS2812 RGB-LEDs through color and brightness commands. The lamp is a fablab Cottbus project and you can find the main program and the cercuit here (German site): http://fablab-cottbus.de/index.php/Audio_Board
+
+License: GPL (unless otherwise stated)

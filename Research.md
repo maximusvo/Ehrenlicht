@@ -23,7 +23,7 @@
 * []()
 * []()
 
-## Stuf to experiment with / help for debugging
+## Stuff to experiment with / help for debugging
 * [Static Interactive Widgets for IPython Notebooks](https://jakevdp.github.io/blog/2013/12/05/static-interactive-widgets/)
 * [Jupyter Notebook](https://jupyter.org/): The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. 
 * []()

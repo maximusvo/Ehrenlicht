@@ -98,9 +98,9 @@ while True:
     for i in range(num_bars):
         s = np.sum(y[i*bar_sound_size:(i + 1)*bar_sound_size])
         if s > 50:
-	    print("BAR ", i, s)
-	    for pin in range(num_pins):
-	        strip.setPixelColor(i*int(num_pins) + pin, Color(i*50, 200, i*10))
+            print("BAR ", i, s)
+            for pin in range(num_pins):
+                strip.setPixelColor(i*int(num_pins) + pin, Color(i*50, 200, i*10))
 
 #            pygame.draw.rect(windowSurface, (255,0,0), (0, 2*i*bar_size, WINDOWWIDTH, 2*bar_size))
     strip.show()
